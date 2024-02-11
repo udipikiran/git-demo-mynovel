@@ -1,0 +1,20 @@
+Mary Lennox:
+- Age: 10
+- Description: Mary is a pale and sullen girl who has recently become orphaned due to a cholera outbreak in India. She is accustomed to a life of luxury and privilege but finds herself adrift in the gloomy halls of Misselthwaite Manor after her parents' deaths. Despite her initial aloofness, Mary possesses a curious nature and a fierce determination to uncover the mysteries hidden within the manor.
+
+Mrs. Medlock:
+- Occupation: Housekeeper at Misselthwaite Manor.
+- Description: Mrs. Medlock is a stern and unyielding woman with a face like chiseled stone. As the housekeeper of Misselthwaite Manor, she is responsible for maintaining order and discipline within its walls. Mrs. Medlock is distrustful of Mary's independent spirit and is quick to assert her authority whenever she feels it necessary.
+
+Martha:
+- Occupation: Maid at Misselthwaite Manor.
+- Description: Martha is a warm and friendly maid who befriends Mary shortly after her arrival at the manor. Unlike Mrs. Medlock, Martha is kind-hearted and compassionate, with a gentle nature that endears her to Mary. She hails from the nearby village and is well-versed in the ways of the countryside, often sharing her knowledge with Mary during their conversations.
+
+Dickon:
+- Age: 12
+- Occupation: Works outdoors and helps with gardening.
+- Description: Dickon is a rugged and earthy boy with a deep connection to the natural world. He is the brother of Martha and spends much of his time tending to the gardens and grounds of Misselthwaite Manor. Dickon is kind-hearted and gentle, with a knack for soothing injured animals and coaxing plants to flourish. He befriends Mary early on and becomes her closest companion during her time at the manor.
+
+Colin Craven:
+- Age: 10
+- Description: Colin is Mary's sickly cousin who has been confined to his bedchamber due to a mysterious illness. He is the son of Archibald Craven, the master of Misselthwaite Manor, but has been largely neglected by his father and kept hidden from the world. Despite his fragile health, Colin possesses a fiery spirit and a vivid imagination, which he uses to cope with the loneliness and isolation of his existence.
