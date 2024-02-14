@@ -1,6 +1,4 @@
 Playlist: Relaxing Evening
-Description: Unwind with these soothing tracks perfect for a peaceful evening.
-
 1. Ludovico Einaudi - Nuvole Bianche
 2. Yiruma - River Flows in You
 3. Max Richter - On the Nature of Daylight
@@ -11,3 +9,4 @@ Description: Unwind with these soothing tracks perfect for a peaceful evening.
 8. Debussy - Clair de Lune
 9. Joep Beving - Ab Ovo
 10. Ludovico Einaudi - Una Mattina
+
